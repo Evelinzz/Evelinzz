@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Evelin 👋👋
    ### Bem vindo ao meu Github!!
 
- - Formada em ADS e cursando a segunda graduação em Engenharia de Software
+ - Formada em ADS e cursando a segunda graduação em Engenharia de Software 🎓
  - Trabalho atualmente na empresa SERPRO 💻 
  - Pronomes: ela/dela
  
